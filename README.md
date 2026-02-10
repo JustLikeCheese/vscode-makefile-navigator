@@ -1,3 +1,9 @@
+<div align="right">
+  Language:
+  English
+  <a title="中文" href="./README.zh_CN.md">中文</a>
+</div>
+
 # Makefile Navigator
 
 A Visual Studio Code extension that provides comprehensive language support for Makefiles, including navigation, auto-completion, hover information, and diagnostics.
